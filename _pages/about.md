@@ -16,6 +16,7 @@ I came to America in 2019 and am now living in Los Angeles, USA.
 
 # Education
 * B.S. in Mathematics and Statistics, Wuhan University, 2019
+* Secondary Degree in Computer Science, Wuhan University, 2019
 * Ph.D in Bioinformatics, University of Southern California, 2024 (expected)
 
 # Reseach interest
