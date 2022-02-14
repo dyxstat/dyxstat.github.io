@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student, advised by Prof. [Fengzhu Sun](https://dornsife.usc.edu/labs/fsun) and 
-Prof. [Jinchi Lv](https://faculty.marshall.usc.edu/jinchi-lv/research/), from [Department of Quantitative 
+I am a third-year Ph.D. student, advised by Prof. [Fengzhu Sun](https://dornsife.usc.edu/labs/fsun), from [Department of Quantitative 
 and Computational Biology](https://www.qcb-dornsife.usc.edu/) at University of Southern California. 
 My research focuses on the bioinformatics and biostatistics.
 I spent my entire childhood in Shanghai, China until my family moved to Wuhan, China when I stepped into the middle school. 
