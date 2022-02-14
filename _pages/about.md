@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yuxuan Du's personal page"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Yuxuan Du's personal page
+Education
+======
+* B.S. in Mathematics and Statistics, Wuhan University, 2019
+* Ph.D in Bioinformatics, University of Southern California, 2024 (expected)
