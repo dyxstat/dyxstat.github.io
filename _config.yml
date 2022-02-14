@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. candidate in Bioinformatics at University of Southern California"
   location         : "Los Angeles, California, USA"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Yuxuan+Du"
+  pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=Yuxuan+Du"
   googlescholar    : "https://scholar.google.com/citations?user=tvBq1o4AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Yuxuan-Du"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-0568-3838"
+  orcid            : #"https://orcid.org/0000-0002-0568-3838"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
