@@ -40,8 +40,8 @@ Genome Biology (2022). In press [[Paper](https://www.biorxiv.org/content/10.1101
 Submitted to Bioinformatics
 
 # Professional Expericence
-Oral presentation: HiCzin Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression.
+**Oral presentation**: HiCzin Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression.
 [RECOMB 2021](https://www.recomb2021.org/), AUG 31st, Padova, Italy. [[Video Record](https://www.youtube.com/watch?v=VjFIYcrtPi8)]
 
-Reviewer: [RECOMB 2021](https://www.recomb2021.org/), [RECOMB 2022](https://recomb2022.net/)
+**Reviewer**: [RECOMB 2021](https://www.recomb2021.org/), [RECOMB 2022](https://recomb2022.net/)
 
