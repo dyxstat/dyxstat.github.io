@@ -27,7 +27,7 @@ I came to America in 2019 and am now living in Los Angeles, USA.
 
 # Publication
 [1] Jieli Ding, Jiaqian Zhang, Yanqin Feng, **Yuxuan Du**. Quadratic Upper Bound Algorithms for Estimation under Cox Model in Case-Cohort Studies.
-Submitted to Statistics in Medicine
+Submitted to Statistical Methods in Medical Research 
 
 [2] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression. 25th INTERNATIONAL CONFERENCE ON RESEARCH IN COMPUTATIONAL MOLECULAR BIOLOGY (2021).
 *An extensive version was invited to be published in RECOMB-JCB 2021 special issue.*
