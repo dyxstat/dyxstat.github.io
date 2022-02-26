@@ -26,9 +26,7 @@ I came to America in 2019 and am now living in Los Angeles, USA.
 * High dimensional statistics
 
 # Publication
-[1] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression. [RECOMB 2021](https://www.recomb2021.org/accepted-papers) (Top conference with acceptance rate < 20%).
-*An extensive version was invited to be published in RECOMB-JCB 2021 special issue.*
-[[Paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0439)] [[Code](https://github.com/dyxstat/HiCzin)]
+[1] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression. Journal of Computational Biology, 2022. (Extended version of the RECOMB’21 paper) [[Paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0439)] [[Code](https://github.com/dyxstat/HiCzin)]
 
 [2] **Yuxuan Du** and Fengzhu Sun. HiCBin: binning metagenomic contigs and recovering metagenome-assembled genomes using Hi-C contact maps.
 Genome Biology (2022). In press [[Paper](https://www.biorxiv.org/content/10.1101/2021.03.22.436521v2.abstract)] [[Code](https://github.com/dyxstat/HiCBin)]
