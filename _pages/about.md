@@ -23,7 +23,7 @@ I came to America in 2019 and am now living in Los Angeles, USA.
 * Metagenomic Hi-C
 * Single-cell Hi-C
 * Random matrix theory 
-* High dimensional statistics
+* Network analysis
 
 # Publication
 [1] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression. Journal of Computational Biology, 2022. (Extended version of the RECOMB’21 paper) [[Paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0439)] [[Code](https://github.com/dyxstat/HiCzin)]
