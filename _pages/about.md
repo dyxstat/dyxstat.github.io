@@ -32,10 +32,11 @@ I came to America in 2019 and am now living in Los Angeles, USA.
 Genome Biology, 2022. 
 [[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02626-w)] [[Code](https://github.com/dyxstat/HiCBin)]
 
-[3] **Yuxuan Du** and Fengzhu Sun. HiFine: integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs. 
+# In Submission
+[1] **Yuxuan Du** and Fengzhu Sun. HiFine: integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs. 
 Submitted to Bioinformatics
 
-[4] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic Upper Bound Algorithms for Estimation under Cox Model in Case-Cohort Studies.
+[2] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic Upper Bound Algorithms for Estimation under Cox Model in Case-Cohort Studies.
 Submitted to Statistical Methods in Medical Research 
 
 # Professional Expericence
