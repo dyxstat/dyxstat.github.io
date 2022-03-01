@@ -29,7 +29,8 @@ I came to America in 2019 and am now living in Los Angeles, USA.
 [1] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression. Journal of Computational Biology, 2022. (Extended version of the RECOMB 2021 accepted paper) [[Paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0439)] [[Code](https://github.com/dyxstat/HiCzin)] [[Conference](https://www.recomb2021.org/accepted-papers)]
 
 [2] **Yuxuan Du** and Fengzhu Sun. HiCBin: binning metagenomic contigs and recovering metagenome-assembled genomes using Hi-C contact maps.
-Genome Biology, 2022. [[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02626-w)] [[Code](https://github.com/dyxstat/HiCBin)]
+Genome Biology, 2022. 
+[[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02626-w)] [[Code](https://github.com/dyxstat/HiCBin)]
 
 [3] **Yuxuan Du** and Fengzhu Sun. HiFine: integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs. 
 Submitted to Bioinformatics
