@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxuan Du"
+title                    : "Yuxuan (Yancey) Du"
 title_separator          : "-"
-name                     : &name "Yuxuan Du"
+name                     : &name "Yuxuan (Yancey) Du"
 description              : &description "Ph.D. candidate in Bioinformatics at University of Southern California"
 url                      : https://dyxstat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
