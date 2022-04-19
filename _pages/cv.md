@@ -33,14 +33,15 @@ I came to America in 2019 and am now living in Los Angeles, USA.
 Genome Biology, 2022. 
 [[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02626-w)] [[Code](https://github.com/dyxstat/HiCBin)]
 
+[3] **Yuxuan Du** and Fengzhu Sun. HiFine: integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs. 
+Bioinformatics, 2022.
+
+[4] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic Upper Bound Algorithms for Estimation under Cox Model in Case-Cohort Studies.
+Statistical Methods in Medical Research, 2022.
+
 # In Submission
 [1] **Yuxuan Du**, Jed A. Fuhrman, and Fengzhu Sun. ViralCC: leveraging metagenomic proximity-ligation to retrieve complete viral genomes and reveal active co-host systems with systematic benchmarking. Submitted to Communications Biology.
 
-[2] **Yuxuan Du** and Fengzhu Sun. HiFine: integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs. 
-Submitted to Bioinformatics
-
-[3] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic Upper Bound Algorithms for Estimation under Cox Model in Case-Cohort Studies.
-Submitted to Statistical Methods in Medical Research 
 
 # Professional Expericence
 **Oral presentation**: HiCzin Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression.
