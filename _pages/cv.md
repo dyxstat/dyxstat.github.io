@@ -40,7 +40,7 @@ Bioinformatics, 2022.
 Statistical Methods in Medical Research, 2022.
 
 # In Submission
-[1] **Yuxuan Du**, Jed A. Fuhrman, and Fengzhu Sun. ViralCC: leveraging metagenomic proximity-ligation to retrieve complete viral genomes and reveal active co-host systems with systematic benchmarking. Submitted to Communications Biology.
+[1] **Yuxuan Du**, Jed A. Fuhrman, and Fengzhu Sun. ViralCC: leveraging metagenomic proximity-ligation to retrieve complete viral genomes and reveal active co-host systems with systematic benchmarking. Submitted to Nature Computational Science.
 
 
 # Professional Expericence
