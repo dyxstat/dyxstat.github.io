@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[04/2022] Our paper about integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs
+[04/2022] Our paper about integrating Hi-C-based and shotgun-based binning methods 
 has been accepted by Bioinformatics!
 
 [04/2022] I will give a presentation at the [11th Annual Southern California System Biology Symposium](https://socalsysbio.qcb.ucla.edu).
