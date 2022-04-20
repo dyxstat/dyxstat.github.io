@@ -22,8 +22,8 @@ I came to America in 2019 and am now living in Los Angeles, USA.
 
 # Reseach interest
 * Metagenomic Hi-C
-* Single-cell Hi-C
-* Random matrix theory 
+* Single-cell omics
+* High dimensional statistics 
 * Network analysis
 
 # Publication
