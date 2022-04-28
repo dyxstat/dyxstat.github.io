@@ -11,7 +11,7 @@ redirect_from:
 [05/2022] I will have a contributed oral presentation at the [WNAR 2022 conference](https://wnarofibs.wildapricot.org/WNAR2022/).
 
 [04/2022] Our paper about integrating Hi-C-based and shotgun-based binning methods 
-has been accepted by Bioinformatics!
+has been accepted by [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac295/6575440?login=true)!
 
 [04/2022] I will give a presentation at the [11th Annual Southern California System Biology Symposium](https://socalsysbio.qcb.ucla.edu).
 
