@@ -34,7 +34,7 @@ Genome Biology, 2022.
 [[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02626-w)] [[Code](https://github.com/dyxstat/HiCBin)]
 
 [3] **Yuxuan Du** and Fengzhu Sun. HiFine: integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs. 
-Bioinformatics, 2022.
+Bioinformatics, 2022. [[Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac295/6575440?login=true)] [[Code](https://github.com/dyxstat/HiFine)]
 
 [4] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic Upper Bound Algorithms for Estimation under Cox Model in Case-Cohort Studies.
 Statistical Methods in Medical Research, 2022.
