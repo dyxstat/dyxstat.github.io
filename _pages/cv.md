@@ -27,20 +27,22 @@ I came to America in 2019 and am now living in Los Angeles, USA.
 * Network analysis
 
 # Publication
-[1] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression. Journal of Computational Biology, 2022. (Extended version of the RECOMB 2021 accepted paper) [[Paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0439)] [[Code](https://github.com/dyxstat/HiCzin)] [[Conference](https://www.recomb2021.org/accepted-papers)] [[Video Record](https://www.youtube.com/watch?v=VjFIYcrtPi8)]
+[1] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. HiCzin: Normalizing metagenomic Hi-C data and detecting spurious contacts using zero-inflated negative binomial regression. RECOMB 2021. [[Paper](https://www.biorxiv.org/content/10.1101/2021.03.01.433489v1.abstract)] [[Code](https://github.com/dyxstat/HiCzin)] [[Conference](https://www.recomb2021.org/accepted-papers)] [[Video Record](https://www.youtube.com/watch?v=VjFIYcrtPi8)] 
 
-[2] **Yuxuan Du** and Fengzhu Sun. HiCBin: binning metagenomic contigs and recovering metagenome-assembled genomes using Hi-C contact maps.
+[2] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression. Journal of Computational Biology, 2022. [[Paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0439)] [[Code](https://github.com/dyxstat/HiCzin)] 
+
+[3] **Yuxuan Du** and Fengzhu Sun. HiCBin: binning metagenomic contigs and recovering metagenome-assembled genomes using Hi-C contact maps.
 Genome Biology, 2022. 
 [[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02626-w)] [[Code](https://github.com/dyxstat/HiCBin)]
 
-[3] **Yuxuan Du** and Fengzhu Sun. HiFine: integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs. 
+[4] **Yuxuan Du** and Fengzhu Sun. HiFine: integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs. 
 Bioinformatics, 2022. [[Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac295/6575440?login=true)] [[Code](https://github.com/dyxstat/HiFine)]
 
-[4] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic Upper Bound Algorithms for Estimation under Cox Model in Case-Cohort Studies.
+[5] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic Upper Bound Algorithms for Estimation under Cox Model in Case-Cohort Studies.
 Statistical Methods in Medical Research, 2022.
 
 # In Submission
-[1] **Yuxuan Du**, Jed A. Fuhrman, and Fengzhu Sun. ViralCC: leveraging metagenomic proximity-ligation to retrieve complete viral genomes and reveal active co-host systems with systematic benchmarking. Submitted to Nature Computational Science.
+[6] **Yuxuan Du**, Jed A. Fuhrman, and Fengzhu Sun. ViralCC: leveraging metagenomic proximity-ligation to retrieve complete viral genomes and reveal active co-host systems with systematic benchmarking. Under review.
 
 
 # Professional Expericence
