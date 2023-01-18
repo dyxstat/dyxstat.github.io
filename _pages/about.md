@@ -7,6 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+[01/2023] Our paper about recovering complete viral genomes and detecting virus-host pairs has been accepted by Nature Communications!
+
+[11/2022] I will present a poster about our HiCBin binning on USC Quantitative and Computational Biology Retreat.
+
+[08/2022] Our works about metagenomic Hi-C have been presented on Young Bioinformatics PI Workshop.
+
+[05/2022] I will join in the RECOMB 2022 main conference in San Diego!
 
 [05/2022] I will have a contributed oral presentation at the [WNAR 2022 conference](https://wnarofibs.wildapricot.org/WNAR2022/).
 
