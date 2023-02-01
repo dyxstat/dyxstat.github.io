@@ -17,6 +17,9 @@ redirect_from:
 
 [05/2022] I will have a contributed oral presentation at the [WNAR 2022 conference](https://wnarofibs.wildapricot.org/WNAR2022/).
 
+[04/2022] Our paper about quadratic upper bound algorithms for estimation under cox model in case-cohort studies has been accepted by 
+[Statistics and Its Interface](https://www.intlpress.com/site/pub/pages/journals/items/sii/_home/acceptedpapers/index.php)!
+
 [04/2022] Our paper about integrating Hi-C-based and shotgun-based binning methods 
 has been accepted by [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac295/6575440?login=true)!
 
