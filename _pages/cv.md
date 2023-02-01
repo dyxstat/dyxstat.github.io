@@ -38,7 +38,7 @@ Genome Biology, 2022.
 [4] **Yuxuan Du** and Fengzhu Sun. HiFine: integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs. 
 Bioinformatics, 2022. [[Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac295/6575440?login=true)] [[Code](https://github.com/dyxstat/HiFine)]
 
-[5] **Yuxuan Du**, Jed A. Fuhrman, and Fengzhu Sun. ViralCC retrieves complete viral genomes and virus-host pairs from metagenomic Hi-C data. Nature Communications, 2023. In press. [[Code](https://github.com/dyxstat/ViralCC)]
+[5] **Yuxuan Du**, Jed A. Fuhrman, and Fengzhu Sun. ViralCC retrieves complete viral genomes and virus-host pairs from metagenomic Hi-C data. Nature Communications, 2023. [[Paper](https://www.nature.com/articles/s41467-023-35945-y)] [[Code](https://github.com/dyxstat/ViralCC)]
 
 [6] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic upper bound algorithms for estimation under cox model in case-cohort studies.
 Statistics and Its Interface, 2022. [[Paper](https://www.intlpress.com/site/pub/pages/journals/items/sii/_home/acceptedpapers/index.php)]
