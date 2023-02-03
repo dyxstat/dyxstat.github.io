@@ -27,7 +27,7 @@ I came to America in 2019 and am now living in Los Angeles, USA.
 * Network analysis
 
 # Publication
-[1] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. HiCzin: Normalizing metagenomic Hi-C data and detecting spurious contacts using zero-inflated negative binomial regression. RECOMB 2021. [[Paper](https://www.biorxiv.org/content/10.1101/2021.03.01.433489v1.abstract)] [[Code](https://github.com/dyxstat/HiCzin)] [[Conference](https://www.recomb2021.org/accepted-papers)] [[Video Record](https://www.youtube.com/watch?v=VjFIYcrtPi8)] 
+[1] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. HiCzin: Normalizing metagenomic Hi-C data and detecting spurious contacts using zero-inflated negative binomial regression. RECOMB 2021. [[Paper](https://www.researchgate.net/publication/357783752_Normalizing_Metagenomic_Hi-C_Data_and_Detecting_Spurious_Contacts_Using_Zero-Inflated_Negative_Binomial_Regression)] [[Code](https://github.com/dyxstat/HiCzin)] [[Conference](https://www.recomb2021.org/accepted-papers)] [[Video Record](https://www.youtube.com/watch?v=VjFIYcrtPi8)] 
 
 [2] **Yuxuan Du**, Sarah M. Laperriere, Jed Fuhrman, and Fengzhu Sun. Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression. Journal of Computational Biology, 2022. [[Paper](https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0439)] [[Code](https://github.com/dyxstat/HiCzin)] 
 
