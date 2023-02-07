@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+[02/2023] Our ViralCC paper is now out at [Nature Communications](https://www.nature.com/articles/s41467-023-35945-y)!
+
 [01/2023] Our paper about recovering complete viral genomes and detecting virus-host pairs has been accepted by Nature Communications!
 
 [11/2022] I will present a poster about our HiCBin binning on USC Quantitative and Computational Biology Retreat.
