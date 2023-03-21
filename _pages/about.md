@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+If you have any collaborations, service requests, or questions, welcome to contact me by email **yuxuandu@usc.edu**.
+
 [02/2023] I have passed my Ph.D. qualifying exam!
 
 [02/2023] Our ViralCC paper is now out at [Nature Communications](https://www.nature.com/articles/s41467-023-35945-y)!
