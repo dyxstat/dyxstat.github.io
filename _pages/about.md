@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-If you have any collaborations, service requests, or questions, welcome to contact me by email **yuxuandu@usc.edu**.
+If you have any service requests or questions, welcome to contact me by email **yuxuandu@usc.edu**. I am also open to any potential collaborations.
 
 [02/2023] I have passed my Ph.D. qualifying exam!
 
