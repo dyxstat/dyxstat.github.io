@@ -9,6 +9,8 @@ redirect_from:
 ---
 If you have any service requests or questions, welcome to contact me by email **yuxuandu@usc.edu**. I am also open to any potential collaborations.
 
+[04/2023] I will give a research light talk at the 12th Annual Southern California System Biology Symposium.
+
 [04/2023] Our paper about quadratic upper bound algorithms in cox model is now out at [Statistics and Its Interface](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0003/a009/index.php)!
 
 [02/2023] I have passed my Ph.D. qualifying exam!
