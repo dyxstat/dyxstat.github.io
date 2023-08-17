@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a fourth-year Ph.D. student, advised by Prof. [Fengzhu Sun](https://dornsife.usc.edu/labs/fsun), from [Department of Quantitative 
+I am a fifth-year Ph.D. student, advised by Prof. [Fengzhu Sun](https://dornsife.usc.edu/labs/fsun), from [Department of Quantitative 
 and Computational Biology](https://www.qcb-dornsife.usc.edu/) at University of Southern California. 
 My research focuses on the bioinformatics and biostatistics.
 I spent my entire childhood in Shanghai, China until my family moved to Wuhan, China when I stepped into the middle school. 
@@ -40,18 +40,23 @@ Bioinformatics, 2022. [[Paper](https://academic.oup.com/bioinformatics/advance-a
 
 [5] **Yuxuan Du**, Jed A. Fuhrman, and Fengzhu Sun. ViralCC retrieves complete viral genomes and virus-host pairs from metagenomic Hi-C data. Nature Communications, 2023. [[Paper](https://www.nature.com/articles/s41467-023-35945-y)] [[Code](https://github.com/dyxstat/ViralCC)]
 
-[6] Jieli Ding, Jiaqian Zhang, Yanqin Feng, and **Yuxuan Du**. Quadratic upper bound algorithms for estimation under cox model in case-cohort studies.
+[6] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic upper bound algorithms for estimation under cox model in case-cohort studies.
 Statistics and Its Interface, 2023. [[Paper](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0003/a009/index.php)]
 
-# In Submission
-[7]  **Yuxuan Du** and Fengzhu Sun. MetaCC allows scalable and integrative analyses of both long-read and short-read metagenomic Hi-C data. Under review by Nature Communications.
+[7] **Yuxuan Du** and Fengzhu Sun. MetaCC allows scalable and integrative analyses of both long-read and short-read metagenomic Hi-C data. Nature Communications, 2023 [In press][[COde](https://github.com/dyxstat/MetaCC)]
+
+[8] Jiawei Huang, **Yuxuan Du**, Andres Stucky, Jiang F. Zhong and Fengzhu Sun. DeepDecon accurately estimates cell fractions in bulk RNA-seq data. ICIBM, 2023. [[Code](https://github.com/Jiawei-Huang/DeepDecon)]
+
+
+# In Preparation/Submission
+[9] **Yuxuan Du** and Fengzhu Sun. ImputeCC: an imputation and ensemble framework to improve metagenomic Hi-C downstream analysis. In preparation.
 
 
 # Professional Expericence
 **Oral presentation**: HiCzin Normalizing Metagenomic Hi-C Data and Detecting Spurious Contacts Using Zero-Inflated Negative Binomial Regression.
 [RECOMB 2021](https://www.recomb2021.org/), Augest 31st, Padova, Italy. [[Video Record](https://www.youtube.com/watch?v=VjFIYcrtPi8)]
 
-**Reviewer**: [RECOMB 2021](https://www.recomb2021.org/), [RECOMB 2022](https://recomb2022.net/), [RECOMB 2023](https://recomb2023.net/), [Frontiers in Cellular and Infection Microbiology](https://www.frontiersin.org/journals/cellular-and-infection-microbiology).
+**Reviewer**: [RECOMB 2021](https://www.recomb2021.org/), [RECOMB 2022](https://recomb2022.net/), [RECOMB 2023](https://recomb2023.net/), [Frontiers in Cellular and Infection Microbiology](https://www.frontiersin.org/journals/cellular-and-infection-microbiology), [Genome Biology](https://genomebiology.biomedcentral.com/), [Communications Biology](https://www.nature.com/commsbio/), [ICIBM 2023](https://icibm2023.iaibm.org/).
 
 # Contact and Service
 If you have any collaborations, service requests, or questions, welcome to contact me by email **yuxuandu@usc.edu**. 
