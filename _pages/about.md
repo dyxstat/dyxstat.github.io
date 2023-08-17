@@ -9,7 +9,9 @@ redirect_from:
 ---
 If you have any service requests or questions, welcome to contact me by email **yuxuandu@usc.edu**. I am also open to any potential collaborations.
 
-[07/2023] Our MetaCC paper has been accepted by Nature Communications!
+[08/2023] Our MetaCC paper has been accepted by Nature Communications!
+
+[07/2023] Our DeepDecon paper will be presented at [ICIBM 2023 main conference](https://icibm2023.iaibm.org/)!
 
 [05/2023] Our DeepDecon paper has been accepted by [ICIBM 2023 conference](https://icibm2023.iaibm.org/) with an oral presentation!
 
