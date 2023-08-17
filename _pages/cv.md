@@ -43,7 +43,7 @@ Bioinformatics, 2022. [[Paper](https://academic.oup.com/bioinformatics/advance-a
 [6] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic upper bound algorithms for estimation under cox model in case-cohort studies.
 Statistics and Its Interface, 2023. [[Paper](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0003/a009/index.php)]
 
-[7] **Yuxuan Du** and Fengzhu Sun. MetaCC allows scalable and integrative analyses of both long-read and short-read metagenomic Hi-C data. Nature Communications, 2023 [In press][[COde](https://github.com/dyxstat/MetaCC)]
+[7] **Yuxuan Du** and Fengzhu Sun. MetaCC allows scalable and integrative analyses of both long-read and short-read metagenomic Hi-C data. Nature Communications, 2023 [In press][[Code](https://github.com/dyxstat/MetaCC)]
 
 [8] Jiawei Huang, **Yuxuan Du**, Andres Stucky, Jiang F. Zhong and Fengzhu Sun. DeepDecon accurately estimates cell fractions in bulk RNA-seq data. ICIBM, 2023. [[Code](https://github.com/Jiawei-Huang/DeepDecon)]
 
