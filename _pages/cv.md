@@ -49,7 +49,7 @@ Statistics and Its Interface, 2023. [[Paper](https://www.intlpress.com/site/pub/
 
 
 # In Submission
-[9] **Yuxuan Du**, Wenxuan Zuo, and Fengzhu Sun. ImputeCC enhances integrative metagenomic Hi-C-based binning through random-walk-based imputation. Submitted to RECOMB 2023.
+[9] **Yuxuan Du**, Wenxuan Zuo, and Fengzhu Sun. ImputeCC enhances integrative metagenomic Hi-C-based binning through random-walk-based imputation. Submitted to RECOMB 2024.
 
 
 # Professional Expericence
