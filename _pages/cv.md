@@ -40,7 +40,7 @@ Bioinformatics, 2022. [[Paper](https://academic.oup.com/bioinformatics/advance-a
 
 [5] **Yuxuan Du**, Jed A. Fuhrman, and Fengzhu Sun. ViralCC retrieves complete viral genomes and virus-host pairs from metagenomic Hi-C data. Nature Communications, 2023. [[Paper](https://www.nature.com/articles/s41467-023-35945-y)] [[Code](https://github.com/dyxstat/ViralCC)]
 
-[6] **Yuxuan Du**, Jieli Ding, Jiaqian Zhang, Yanqin Feng. Quadratic upper bound algorithms for estimation under cox model in case-cohort studies.
+[6] Jieli Ding, Jiaqian Zhang, Yanqin Feng, and **Yuxuan Du**. Quadratic upper bound algorithms for estimation under cox model in case-cohort studies.
 Statistics and Its Interface, 2023. [[Paper](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0003/a009/index.php)]
 
 [7] **Yuxuan Du** and Fengzhu Sun. MetaCC allows scalable and integrative analyses of both long-read and short-read metagenomic Hi-C data. Nature Communications, 2023. [[Paper](https://www.nature.com/articles/s41467-023-41209-6)] [[Code](https://github.com/dyxstat/MetaCC)]
