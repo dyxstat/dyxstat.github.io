@@ -9,6 +9,11 @@ redirect_from:
 ---
 If you have any service requests or questions, welcome to contact me by email **yuxuandu@usc.edu**. I am also open to any potential collaborations.
 
+[12/2023] Our paper regarding imputing metaHi-C contact matrix has been accepted by [RECOMB 2024](https://recomb.org/recomb2024/call_for_papers.html)
+with oral presentation!
+
+[11/2023] I will present our MetaCC paper at QCB retreat 2024 in Ventura, CA!
+
 [10/2023] Our MetaCC paper is finally out at [Nature Communications](https://www.nature.com/articles/s41467-023-41209-6)!
 
 [08/2023] Our MetaCC paper has been accepted by Nature Communications!
