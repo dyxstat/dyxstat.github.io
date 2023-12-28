@@ -47,9 +47,11 @@ Statistics and Its Interface, 2023. [[Paper](https://www.intlpress.com/site/pub/
 
 [8] Jiawei Huang, **Yuxuan Du**, Andres Stucky, Jiang F. Zhong and Fengzhu Sun. DeepDecon accurately estimates cell fractions in bulk RNA-seq data. ICIBM, 2023. [[Code](https://github.com/Jiawei-Huang/DeepDecon)]
 
+[9] **Yuxuan Du**, Wenxuan Zuo, and Fengzhu Sun. ImputeCC enhances integrative Hi-C-based metagenomic binning through constrained random-walk-based imputation. RECOMB 2024. [[Code](https://github.com/dyxstat/ImputeCC)]
+
 
 # In Submission
-[9] **Yuxuan Du**, Wenxuan Zuo, and Fengzhu Sun. ImputeCC enhances integrative Hi-C-based metagenomic binning through constrained random-walk-based imputation. Submitted to RECOMB 2024.
+[10] Wenxuan Zuo, Zifan Zhu, **Yuxuan Du**, Yingying Fan, Jinchi Lv, Fengzhu Sun. DeepLINK-T: Deep learning inference using knockoffs for feature selection in time series data. In submission
 
 
 # Professional Expericence
