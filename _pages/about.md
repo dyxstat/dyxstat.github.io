@@ -9,7 +9,7 @@ redirect_from:
 ---
 If you have any service requests or questions, welcome to contact me by email **yuxuandu@usc.edu**. I am also open to any potential collaborations.
 
-[1/2023] **I am not actively seeking for a postdoctoral position.**
+[1/2023] **I am now actively looking for a postdoctoral position!** 
 
 [12/2023] Our paper regarding imputing metaHi-C contact matrix has been accepted by [RECOMB 2024](https://recomb.org/recomb2024/call_for_papers.html)
 with oral presentation!
