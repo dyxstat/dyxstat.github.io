@@ -9,6 +9,8 @@ redirect_from:
 ---
 If you have any service requests or questions, welcome to contact me by email **yuxuandu@usc.edu**. I am also open to any potential collaborations.
 
+[02/2024] I will join in RECOMB 2024 and see you in Boston!
+
 [12/2023] Our paper regarding imputing metaHi-C contact matrix has been accepted by [RECOMB 2024](https://recomb.org/recomb2024/call_for_papers.html)
 with oral presentation!
 
